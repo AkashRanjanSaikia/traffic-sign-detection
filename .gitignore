@@ -14,5 +14,4 @@ dist/
 # Temp folder
 temp/
 
-# Model weights (optional, since they are large)
-Backend/model
+best2.pt
